@@ -1,30 +1,60 @@
 ---
 template: HomePage
-slug: ''
+slug: ""
 title: Changing the World - one hub at a time
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: 'Driving social change locally, impacting globally'
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: Driving social change locally, impacting globally
+accordion: []
 meta:
-  description: This is a meta description.
+  description: |-
+    Global Shapers Cleveland
+    Changing the World – one hub at a time
   title: Home
+  canonicalLink: https://globalshaperscle.com
 ---
+# Our Mission 
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+The [Global Shapers Community](https://www.globalshapers.org/), an initiative of the [World Economic Forum](https://www.weforum.org/), is an international network of young leaders. Created to empower youth to self-organize for impact and to amplify the voice of young leaders, the Shapers Community is a network of over 300 city-based hubs full of change-makers looking to positively impact the world.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Here in Cleveland, we believe there are hundreds of energetic citizens looking for a way to positively impact our city.
 
-# Features
+Our hub's goal is to leverage the passion of this diverse group of young leaders to create local change through a global lens by sparking critical conversations, prototyping design solutions, supporting community partners through project sprints, and approaching problems through the lens of human-centered design.
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+How do we do that? Our strategy is a three-pronged approach:
 
-## Get started
+**CULTIVATE**
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Examine our project intentions, community needs, and potential project impact while developing an internal culture that is conducive to meaningful social impact.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+* Service events
+* Human-centered design analysis
+* Hub meetings & retreats
+* World Economic Forum (WEF) events
+* Shaper Summits
+
+  ![Hub members planting trees on Earth Day](https://ucarecdn.com/51023d0a-84a9-489d-a5a5-828f298342a1/ "Hub members planting trees on Earth Day")
+
+**AMPLIFY**
+
+Supporting community partners by sourcing our members’ passions & skills to complete shorter, focused projects. These opportunities help members build critical skills while creating immediate impact.
+
+* [Black Environmental Leaders Association](https://www.blackenvironmentalleaders.org/)
+* [Rust Belt Riders](https://www.rustbeltriders.com/?gclid=CjwKCAjwvJvpBRAtEiwAjLuRPVhepVu6jvwB0A8XBhds5YBZOemOatymu_iss1VHOOUkVrIlDtkyfxoCLkMQAvD_BwE) Community Compost Drop Site Challenge
+* Voter registration initiatives
+* \#Blood4All
+* [Cleveland Co-Labs](https://www.clecolabs.org/)
+* [Data Days CLE](https://www.datadayscle.org/)
+
+  ![](https://ucarecdn.com/71476afe-2503-404a-bb2c-78eeb594358b/)
+
+
+
+**INTENSIFY**
+
+Dedicate our resources and our knowledge to the realization of member ideas and community partner needs
+
+* Luck Circles - Networking with a purpose
+* Common Grounds - Global Perspectives with the Global Shapers
+* Circular Design Workshop
+
+  ![](https://ucarecdn.com/47e18bcb-2ce2-43f6-83e4-4828f5c43452/)
