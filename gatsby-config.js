@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Yellowcake',
-    siteUrl: 'https://yellowcake.netlify.com'
+    title: 'Global Shapers Cleveland',
+    siteUrl: 'https://globalshaperscle.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -22,8 +22,8 @@ module.exports = {
         name: 'globalshaperscle',
         short_name: 'globalshaperscle',
         start_url: '/',
-        background_color: '#00C2BD',
-        theme_color: '#00C2BD',
+        background_color: '#005C9C',
+        theme_color: '#005C9C',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: 'standalone',
